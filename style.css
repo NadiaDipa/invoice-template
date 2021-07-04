@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+img {
+    width: 30%;
+    padding-left: 10px;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+table {
+    margin-top: 20px;
+    padding: 20px;
+    padding-bottom: 100%;
+    text-align: center;
+
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+hr {
+    font-weight: 700;
+}
+
+.text-right {
+    text-align: right;
+
+}
+
+.bottom-part {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    background-image: linear-gradient(rgb(165, 223, 223),rgb(30, 165, 228));
+}
+
+.link {
+
+    color: rgb(241, 10, 10);
+}
+.total-ammount{
+    text-align: right;
+}
